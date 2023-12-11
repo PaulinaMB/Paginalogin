@@ -4,7 +4,7 @@
     position: relative; /*Será relativo para superponer elementos sobre él*/
     background: white;
 }
-.degradado{ /*este contenedor tendrá el degradado*/
+#degradado{ /*este contenedor tendrá el degradado*/
     width: 587px; 
     height: 1032px; 
     left: 853px; /*se usa un left para que empuje el contenedor 853px a la izquierda de manera que queda alineado a la derecha*/
@@ -68,7 +68,7 @@
     font-weight: 500; 
     word-wrap: break-word;
 }
-.apple{ /*es la imagen de google*/
+.apple{ /*es la imagen de apple*/
     width: 40px; 
     height: 41px; 
     left: 485px; 
